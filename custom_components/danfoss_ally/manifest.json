@@ -1,0 +1,11 @@
+{
+  "domain": "danfoss_ally",
+  "name": "Danfoss Ally",
+  "documentation": "https://github.com/tcarlsen/danfoss-ally",
+  "issue_tracker": "https://github.com/tcarlsen/danfoss-ally/issues",
+  "dependencies": [],
+  "config_flow": false,
+  "after_dependencies": [],
+  "codeowners": ["@tcarlsen"],
+  "requirements": []
+}
